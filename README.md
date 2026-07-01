@@ -36,4 +36,4 @@ You are invited to review or download the interactive Excel workbook directly fr
 I am currently available for long-term and short-term remote contracts, dedicated freelancing opportunities, or full-time remote roles as a Data Entry Specialist, Virtual Assistant, or Operations Associate. Let's connect to streamline your business operations:
 
 * **Email:** magnum.firman@gmail.com
-* **LinkedIn:** [linkedin.com/in/your-profile-username](https://www.linkedin.com/in/firmansyah-firmansyah-333583174/)
+* **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/firmansyah-firmansyah-333583174/)
