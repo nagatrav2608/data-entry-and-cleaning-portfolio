@@ -28,7 +28,7 @@ To elevate the raw dataset into an elite business-ready standard, I systematical
 
 ## 📂 Project Deliverables
 You are invited to review or download the interactive Excel workbook directly from this repository:
-* 📁 **[Access the Excel Portfolio Workbook Here](https://docs.google.com/spreadsheets/d/1gKjNZ_6lCX5FsZ3OInu0GeLOuz6QZLb_l-JTeBgahFA/edit?usp=sharing)**
+* 📁 **[Access the Excel Portfolio Workbook Here](https://docs.google.com/spreadsheets/d/1xuy64ka-uBjvUWKEu9woMAnoVBU-N7cE2i1helP_KAw/edit?usp=sharing)**
 
 ---
 
